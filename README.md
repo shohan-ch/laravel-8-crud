@@ -8,12 +8,12 @@ This is a laravel 8 crud app with a bunch of validations. This repository is all
 ## How to install and run on your local system
 
 - git clone https://github.com/shohan-ch/laravel-8-crud.git
-- create a database with the name crud
+- create a database with the name "crud"
 - php artisan migrate
 - php artisan serve (if the server opens up, http://127.0.0.1:8000, then we are good to go)
 - And finally go to this uri (http://127.0.0.1:8000/product/)
 
-(img/Hnet-image.gif)
+(/download.png)
 
 
 
