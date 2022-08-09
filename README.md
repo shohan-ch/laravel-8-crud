@@ -1,7 +1,7 @@
   <p   align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 
-## About Laravel CRUD App
+##    Laravel CRUD App
 
 This is a laravel 8 crud app with a bunch of validations. This repository is all about product CRUD and laravel jetstream.
 
