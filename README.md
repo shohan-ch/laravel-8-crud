@@ -5,7 +5,7 @@
 
 This is a laravel 8 crud app with a bunch of validations. This repository is all about product CRUD and laravel jetstream.
 
-## How to install and run on your local system
+##  How to install and run on your local system
 
 - git clone https://github.com/shohan-ch/laravel-8-crud.git
 - create a database with the name "crud"
