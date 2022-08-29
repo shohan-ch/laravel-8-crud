@@ -19,4 +19,4 @@ This is a laravel 8 crud app with a bunch of validations. This repository is all
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+   The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
