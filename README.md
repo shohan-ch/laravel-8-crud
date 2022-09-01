@@ -3,7 +3,7 @@
 
 ##    Laravel CRUD App
 
-This is a laravel 8 crud app with a bunch of validations. This repository is all about product CRUD and laravel jetstream.
+This is aaa laravel 8 crud app with a bunch of validations. This repository is all about product CRUD and laravel jetstream.
 
 ##  How to install and run on your local system
 
